@@ -291,16 +291,21 @@ Valuation Tracking: Historical portfolio value progression over snapshot dates.
 
 Position Ledger: Granular unrealized P/L and fundamentals breakdown per holding.
 
-🌐 Live Interactive Web Dashboard
+## 🌐 Live Interactive Web Dashboard
+
 Access the real-time portfolio analytics and risk monitoring platform online:
 
-Streamlit App
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finwise-2kdst3db5dplzxp29vbspe.streamlit.app/)
 
-Live Demo: FinWise Analytics Hub
+> **Live Demo:** [FinWise Analytics Hub](https://finwise-2kdst3db5dplzxp29vbspe.streamlit.app/)
 
-Local Execution
+---
+
+### Local Execution
+
 To run the Streamlit frontend locally:
 
+```powershell
 # 1. Install dependencies
 pip install -r requirements.txt
 
