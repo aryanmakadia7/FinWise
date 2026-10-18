@@ -281,3 +281,28 @@ The portfolio management and risk metrics are visualized using an interactive Po
 - **Exposure Breakdown**: Real-time sector asset allocation.
 - **Valuation Tracking**: Historical portfolio value progression over snapshot dates.
 - **Position Ledger**: Granular unrealized P/L and fundamentals breakdown per holding.
+
+- Key Analytics Modules:
+Concentration Analysis: Herfindahl-Hirschman Index (HHI) score monitoring.
+
+Exposure Breakdown: Real-time sector asset allocation.
+
+Valuation Tracking: Historical portfolio value progression over snapshot dates.
+
+Position Ledger: Granular unrealized P/L and fundamentals breakdown per holding.
+
+🌐 Live Interactive Web Dashboard
+Access the real-time portfolio analytics and risk monitoring platform online:
+
+Streamlit App
+
+Live Demo: FinWise Analytics Hub
+
+Local Execution
+To run the Streamlit frontend locally:
+
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Launch the web application
+streamlit run app.py
